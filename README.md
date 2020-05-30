@@ -1,4 +1,4 @@
-# 06-Homework - Weather Dashboard
+# 06-Homework - [Weather Dashboard](https://kyleres.github.io/06-Weather_Dashboard/)
 
 ## Introduction
 For this homework assignment, we were tasked with creating a weather dashboard to cater to the needs of the traveler described below. The goal was to dive deeper into the world of APIs and to create an application that uses information from more than one API.
